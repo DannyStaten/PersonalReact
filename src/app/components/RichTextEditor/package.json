@@ -1,0 +1,4 @@
+{
+    "main": "RichTextEditor.js",
+    "storybook": "RichTextEditorStory.js"
+}

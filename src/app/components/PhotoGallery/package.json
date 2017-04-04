@@ -1,0 +1,4 @@
+{
+    "main": "PhotoGallery.js",
+    "storybook": "PhotoGalleryStory.js"
+}
